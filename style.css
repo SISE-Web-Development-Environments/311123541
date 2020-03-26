@@ -109,15 +109,17 @@ h1:after {
 h1:after {
     margin: 0 0 0 10px;
 }
+.fb-like{
+	float: center;
+	text-align: center;
+}
 table {
 	border-collapse: collapse;
   }
-  
   table, td {
 	border: 1px solid black;
 	text-align: center;
   }
-  
   th {
 	border: 1px solid white;
 	background-color: rgb(212, 181, 247);
